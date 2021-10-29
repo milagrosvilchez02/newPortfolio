@@ -1,0 +1,61 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.main {
+    display: flex;
+    height: 420px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.home-picture { 
+    width: 320px;
+    border-radius: 7px;
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5);
+}
+
+.info-list {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 7px;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5);
+}
+
+.info-list p{
+    margin: 0px 0px 0px 10px;
+}
+
+.personal-info-text {
+    margin-top: 20px;
+    width: 35%;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5);
+}
+
+.about-me {
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 7px;
+    margin: 0;
+    font-size: 30px;
+}
+
+
+.title {
+    margin: 100px 0px 90px 0px;
+    border-bottom: 1px solid white;
+    padding-left: 80px;
+}
+
+.projects {
+    margin: 0px 100px 0px 100px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+}
+
