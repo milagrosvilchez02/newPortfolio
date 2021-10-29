@@ -1,6 +1,7 @@
 import React from "react";
 import Container from "./Container";
 import projectData from "../projectData.json";
+import "../assets/styles/ProjectsContainer.css";
 
 const ProjectsContainer = () => {
   return (

@@ -8,7 +8,7 @@ const Contact = () => {
       <p>Contact me!</p>
       <div className="links">
         {contactData.map((i) => (
-          <a href={i.href} key={i.key}>
+          <a target="_blank" href={i.href} key={i.key}>
             <img className="contact-item" src={i.img} alt={i.key} />
           </a>
         ))}

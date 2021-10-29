@@ -14,8 +14,8 @@ function App() {
         <Switch>
           <Route path="/resume" component={Resume}></Route>
           <Route path="/interests" component={InterestsTab}></Route>
-          <Route path="/" component={Home} exact></Route>
-          <Redirect from="/newPortfolio/" exact to="/home" />
+          <Route path="/home" component={Home}></Route>
+          <Redirect from="/" exact to="/home" />
         </Switch>
       </main>
     </React.Fragment>
