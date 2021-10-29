@@ -4,10 +4,9 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-require("dotenv").config();
-
 import "./index.css";
 
+require("dotenv").config();
 ReactDOM.render(
   <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
