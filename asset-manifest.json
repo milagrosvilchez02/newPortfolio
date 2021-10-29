@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://milagrosvilchez02.github.io/newPortfolio/static/css/main.3d02fc18.chunk.css",
+    "main.css": "https://milagrosvilchez02.github.io/newPortfolio/static/css/main.f218dd5f.chunk.css",
     "main.js": "https://milagrosvilchez02.github.io/newPortfolio/static/js/main.c2ac8355.chunk.js",
     "main.js.map": "https://milagrosvilchez02.github.io/newPortfolio/static/js/main.c2ac8355.chunk.js.map",
     "runtime-main.js": "https://milagrosvilchez02.github.io/newPortfolio/static/js/runtime-main.1bdd5330.js",
@@ -10,13 +10,13 @@
     "static/js/3.12229ebf.chunk.js": "https://milagrosvilchez02.github.io/newPortfolio/static/js/3.12229ebf.chunk.js",
     "static/js/3.12229ebf.chunk.js.map": "https://milagrosvilchez02.github.io/newPortfolio/static/js/3.12229ebf.chunk.js.map",
     "index.html": "https://milagrosvilchez02.github.io/newPortfolio/index.html",
-    "static/css/main.3d02fc18.chunk.css.map": "https://milagrosvilchez02.github.io/newPortfolio/static/css/main.3d02fc18.chunk.css.map",
+    "static/css/main.f218dd5f.chunk.css.map": "https://milagrosvilchez02.github.io/newPortfolio/static/css/main.f218dd5f.chunk.css.map",
     "static/js/2.2570fe60.chunk.js.LICENSE.txt": "https://milagrosvilchez02.github.io/newPortfolio/static/js/2.2570fe60.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1bdd5330.js",
     "static/js/2.2570fe60.chunk.js",
-    "static/css/main.3d02fc18.chunk.css",
+    "static/css/main.f218dd5f.chunk.css",
     "static/js/main.c2ac8355.chunk.js"
   ]
 }
