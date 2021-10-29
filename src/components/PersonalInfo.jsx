@@ -10,7 +10,7 @@ const PersonalInfo = () => {
           alt="me"
         />
         <div className="info-list">
-          <p>• La Plata</p>
+          <p>• La Plata, Buenos Aires, Argentina</p>
           <p>• 22 years old</p>
         </div>
       </div>

@@ -1,7 +1,7 @@
 .contact {
-    margin-top: 100px;
+    margin-top: 7rem;
     display: flex;
-    font-size: 30px;
+    font-size: 2rem;
     align-items: center;
     justify-content: space-evenly;
 }

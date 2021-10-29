@@ -5,9 +5,9 @@ import "../assets/styles/Header.css";
 const Header = () => {
   return (
     <div className="header">
-      <a href="../resources/MariaResume.pdf" download>
+      <NavLink to="/resume" download>
         Resume
-      </a>
+      </NavLink>
       <figure>{/* <img src="../resources/icon.png" alt="icon" /> */}</figure>
       <NavLink to="/interests">Interests</NavLink>
     </div>

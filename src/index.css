@@ -7,3 +7,7 @@ body {
   color: rgb(92, 252, 132);
   
 }
+
+root {
+  width: 100%;
+}
