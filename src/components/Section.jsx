@@ -1,14 +1,17 @@
 import React from "react";
 import Container from "./Container";
-import projectData from "../projectData.json";
 import "../assets/styles/ProjectsContainer.css";
 
-const ProjectsContainer = () => {
+// {
+//   c.content.map((i) => <Container key={i.title} content={i} />);
+// }
+
+const ProjectsContainer = ({ mainTitle, content }) => {
   return (
     <div className="projects">
-      <h1 className="title">My projects</h1>
+      <h1 className="title">{mainTitle}</h1>
       <div className="projects">
-        {projectData.map((m) => (
+        {content.map((m) => (
           <Container
             key={m.title}
             info={m.title}

@@ -1,16 +1,23 @@
 import React from "react";
-import ProjectsContainer from "./ProjectsContainer";
+import Section from "./Section";
 import Contact from "./Contact";
 import PersonalInfo from "./PersonalInfo";
-import Work from "./Work";
+import data from "../data.json";
 import "../assets/styles/Home.css";
 
 const Home = () => {
   return (
     <div className="home-container">
       <PersonalInfo />
-      <ProjectsContainer />
-      <Work />
+      {data.map((c) => (
+        <Section
+          key={c.mainTitle}
+          mainTitle={c.mainTitle}
+          content={c.content}
+        ></Section>
+      ))}
+      {/* <ProjectsContainer projects={data.projects} /> */}
+      {/* <Work works={data.works} /> */}
       <Contact />
     </div>
   );

@@ -5,8 +5,9 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "./index.css";
 
+// pasar a variable de entorno
 ReactDOM.render(
-  <BrowserRouter basename="/newPortfolio">
+  <BrowserRouter basename="/newPortfolio/">
     <App />
   </BrowserRouter>,
   document.getElementById("root")
