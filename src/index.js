@@ -6,7 +6,7 @@ import reportWebVitals from "./reportWebVitals";
 import "./index.css";
 
 ReactDOM.render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter basename="/">
     <App />
   </BrowserRouter>,
   document.getElementById("root")
