@@ -3,6 +3,7 @@ import Section from "./Section";
 import Contact from "./Contact";
 import PersonalInfo from "./PersonalInfo";
 import data from "../data.json";
+import contactData from "../contactData.json";
 import "../assets/styles/Home.css";
 
 const Home = () => {
@@ -18,7 +19,7 @@ const Home = () => {
       ))}
       {/* <ProjectsContainer projects={data.projects} /> */}
       {/* <Work works={data.works} /> */}
-      <Contact />
+      <Contact content={contactData} />
     </div>
   );
 };

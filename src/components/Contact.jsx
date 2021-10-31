@@ -1,13 +1,12 @@
 import React from "react";
-import contactData from "../contactData.json";
 import "../assets/styles/Contact.css";
 
-const Contact = () => {
+const Contact = ({ content }) => {
   return (
     <div className="contact">
       <p>Contact me!</p>
       <div className="links">
-        {contactData.map((i) => (
+        {content.map((i) => (
           <a target="_blank" href={i.href} key={i.key}>
             <img className="contact-item" src={i.img} alt={i.key} />
           </a>

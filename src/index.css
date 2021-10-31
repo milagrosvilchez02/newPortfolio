@@ -6,6 +6,33 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: rgb(92, 252, 132);
   
+  
+}
+
+body::-webkit-scrollbar {
+  -webkit-appearance: none;
+}
+
+body::-webkit-scrollbar:vertical {
+  width:10px;
+}
+
+body::-webkit-scrollbar-button:increment, body::-webkit-scrollbar-button {
+  display: none;
+} 
+
+body::-webkit-scrollbar:horizontal {
+  height: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  border: 1px solid rgb(255, 255, 255);
+}
+
+body::-webkit-scrollbar-track {
+  border-radius: 10px;  
 }
 
 root {
