@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/newPortfolio/static/css/main.71b5671e.chunk.css",
-    "main.js": "/newPortfolio/static/js/main.f6c95d73.chunk.js",
-    "main.js.map": "/newPortfolio/static/js/main.f6c95d73.chunk.js.map",
-    "runtime-main.js": "/newPortfolio/static/js/runtime-main.87846027.js",
-    "runtime-main.js.map": "/newPortfolio/static/js/runtime-main.87846027.js.map",
-    "static/js/2.b29f1fdf.chunk.js": "/newPortfolio/static/js/2.b29f1fdf.chunk.js",
-    "static/js/2.b29f1fdf.chunk.js.map": "/newPortfolio/static/js/2.b29f1fdf.chunk.js.map",
-    "static/js/3.4193c6e2.chunk.js": "/newPortfolio/static/js/3.4193c6e2.chunk.js",
-    "static/js/3.4193c6e2.chunk.js.map": "/newPortfolio/static/js/3.4193c6e2.chunk.js.map",
+    "main.css": "/newPortfolio/static/css/main.78bf038f.chunk.css",
+    "main.js": "/newPortfolio/static/js/main.1853a3b2.chunk.js",
+    "main.js.map": "/newPortfolio/static/js/main.1853a3b2.chunk.js.map",
+    "runtime-main.js": "/newPortfolio/static/js/runtime-main.f3eabc17.js",
+    "runtime-main.js.map": "/newPortfolio/static/js/runtime-main.f3eabc17.js.map",
+    "static/js/2.9cad3f55.chunk.js": "/newPortfolio/static/js/2.9cad3f55.chunk.js",
+    "static/js/2.9cad3f55.chunk.js.map": "/newPortfolio/static/js/2.9cad3f55.chunk.js.map",
+    "static/js/3.b9df3aef.chunk.js": "/newPortfolio/static/js/3.b9df3aef.chunk.js",
+    "static/js/3.b9df3aef.chunk.js.map": "/newPortfolio/static/js/3.b9df3aef.chunk.js.map",
     "index.html": "/newPortfolio/index.html",
-    "static/css/main.71b5671e.chunk.css.map": "/newPortfolio/static/css/main.71b5671e.chunk.css.map",
-    "static/js/2.b29f1fdf.chunk.js.LICENSE.txt": "/newPortfolio/static/js/2.b29f1fdf.chunk.js.LICENSE.txt",
+    "static/css/main.78bf038f.chunk.css.map": "/newPortfolio/static/css/main.78bf038f.chunk.css.map",
+    "static/js/2.9cad3f55.chunk.js.LICENSE.txt": "/newPortfolio/static/js/2.9cad3f55.chunk.js.LICENSE.txt",
     "static/media/platzimain.4136e6b8.png": "/newPortfolio/static/media/platzimain.4136e6b8.png",
     "static/media/platziproject.e77eaccc.png": "/newPortfolio/static/media/platziproject.e77eaccc.png",
     "static/media/portfolioResume.6d7fb8b0.pdf": "/newPortfolio/static/media/portfolioResume.6d7fb8b0.pdf",
     "static/media/resume.722e9b8c.jpg": "/newPortfolio/static/media/resume.722e9b8c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87846027.js",
-    "static/js/2.b29f1fdf.chunk.js",
-    "static/css/main.71b5671e.chunk.css",
-    "static/js/main.f6c95d73.chunk.js"
+    "static/js/runtime-main.f3eabc17.js",
+    "static/js/2.9cad3f55.chunk.js",
+    "static/css/main.78bf038f.chunk.css",
+    "static/js/main.1853a3b2.chunk.js"
   ]
 }
