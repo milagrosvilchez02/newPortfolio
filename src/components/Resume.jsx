@@ -1,5 +1,5 @@
 import React from "react";
-import resumeDownload from "../resources/Resume.pdf";
+import resumeDownload from "../resources/portfolioResume.pdf";
 import image from "../resources/resume.jpg";
 import "../assets/styles/Resume.css";
 const Resume = () => {
