@@ -1,24 +1,26 @@
 {
   "files": {
     "main.css": "/newPortfolio/static/css/main.71b5671e.chunk.css",
-    "main.js": "/newPortfolio/static/js/main.68273b99.chunk.js",
-    "main.js.map": "/newPortfolio/static/js/main.68273b99.chunk.js.map",
-    "runtime-main.js": "/newPortfolio/static/js/runtime-main.75c86429.js",
-    "runtime-main.js.map": "/newPortfolio/static/js/runtime-main.75c86429.js.map",
-    "static/js/2.1c37053b.chunk.js": "/newPortfolio/static/js/2.1c37053b.chunk.js",
-    "static/js/2.1c37053b.chunk.js.map": "/newPortfolio/static/js/2.1c37053b.chunk.js.map",
-    "static/js/3.55777533.chunk.js": "/newPortfolio/static/js/3.55777533.chunk.js",
-    "static/js/3.55777533.chunk.js.map": "/newPortfolio/static/js/3.55777533.chunk.js.map",
+    "main.js": "/newPortfolio/static/js/main.f6c95d73.chunk.js",
+    "main.js.map": "/newPortfolio/static/js/main.f6c95d73.chunk.js.map",
+    "runtime-main.js": "/newPortfolio/static/js/runtime-main.87846027.js",
+    "runtime-main.js.map": "/newPortfolio/static/js/runtime-main.87846027.js.map",
+    "static/js/2.b29f1fdf.chunk.js": "/newPortfolio/static/js/2.b29f1fdf.chunk.js",
+    "static/js/2.b29f1fdf.chunk.js.map": "/newPortfolio/static/js/2.b29f1fdf.chunk.js.map",
+    "static/js/3.4193c6e2.chunk.js": "/newPortfolio/static/js/3.4193c6e2.chunk.js",
+    "static/js/3.4193c6e2.chunk.js.map": "/newPortfolio/static/js/3.4193c6e2.chunk.js.map",
     "index.html": "/newPortfolio/index.html",
     "static/css/main.71b5671e.chunk.css.map": "/newPortfolio/static/css/main.71b5671e.chunk.css.map",
-    "static/js/2.1c37053b.chunk.js.LICENSE.txt": "/newPortfolio/static/js/2.1c37053b.chunk.js.LICENSE.txt",
+    "static/js/2.b29f1fdf.chunk.js.LICENSE.txt": "/newPortfolio/static/js/2.b29f1fdf.chunk.js.LICENSE.txt",
+    "static/media/platzimain.4136e6b8.png": "/newPortfolio/static/media/platzimain.4136e6b8.png",
+    "static/media/platziproject.e77eaccc.png": "/newPortfolio/static/media/platziproject.e77eaccc.png",
     "static/media/portfolioResume.6d7fb8b0.pdf": "/newPortfolio/static/media/portfolioResume.6d7fb8b0.pdf",
     "static/media/resume.722e9b8c.jpg": "/newPortfolio/static/media/resume.722e9b8c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75c86429.js",
-    "static/js/2.1c37053b.chunk.js",
+    "static/js/runtime-main.87846027.js",
+    "static/js/2.b29f1fdf.chunk.js",
     "static/css/main.71b5671e.chunk.css",
-    "static/js/main.68273b99.chunk.js"
+    "static/js/main.f6c95d73.chunk.js"
   ]
 }
