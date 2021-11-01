@@ -1,7 +1,7 @@
 import React from "react";
 import Section from "./Section";
 import PersonalInfo from "./PersonalInfo";
-import data from "../data.json";
+import data from "../data";
 import skills from "../skills.json";
 import "../assets/styles/Home.css";
 import SkillsContainer from "./SkillsContainer";
