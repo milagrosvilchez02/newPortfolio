@@ -1,14 +1,13 @@
 import React from "react";
-import Container from "./Container";
-import "../assets/styles/ProjectsContainer.css";
+import Project from "./Project";
 
-const ProjectsContainer = ({ mainTitle, content }) => {
+const Section = ({ mainTitle, content }) => {
   return (
     <div className="section">
       <h1 className="title">{mainTitle}</h1>
       <div className="projects">
         {content.map((m) => (
-          <Container
+          <Project
             key={m.title}
             info={m.title}
             img={m.img}
@@ -21,4 +20,4 @@ const ProjectsContainer = ({ mainTitle, content }) => {
   );
 };
 
-export default ProjectsContainer;
+export default Section;

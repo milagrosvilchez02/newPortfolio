@@ -1,5 +1,4 @@
 import React from "react";
-import "../assets/styles/SkillsContainer.css";
 
 const SkillsContainer = ({ mainTitle, content }) => {
   return (

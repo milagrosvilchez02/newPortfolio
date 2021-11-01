@@ -6,7 +6,7 @@ import InterestsTab from "./components/InterestsTab";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import contactData from "./contactData.json";
-import "./App.css";
+import "./styles/App.scss";
 
 function App() {
   return (

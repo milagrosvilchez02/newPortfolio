@@ -1,3 +1,12 @@
+@import '../assets/styles/components/Contact.scss';
+@import '../assets/styles/components/Header.scss';
+@import '../assets/styles/components/Home.scss';
+@import '../assets/styles/components/InterestsTab.scss';
+@import '../assets/styles/components/Project.scss';
+@import '../assets/styles/components/ProjectsContainer.scss';
+@import '../assets/styles/components/Resume.scss';
+@import '../assets/styles/components/SkillsContainer.scss';
+
 body {
   margin: 0;
   background-color: rgb(0, 0, 0);
@@ -37,6 +46,14 @@ body::-webkit-scrollbar-track {
   border-radius: 10px;  
 }
 
-root {
-  width: 100%;
+a {
+  text-decoration: none;
+  color: rgb(180, 153, 255);
+  transition: all .2s ease-in-out;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(134, 237, 255);
+  transform: scale(1.1);
 }

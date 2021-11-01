@@ -3,16 +3,6 @@
     flex-direction: column;
 }
 
-@media (max-width: 760px) {
-    .home-container {
-        width: fit-content;
-    }
-    .main {
-        
-    }
-}
-
-
 .main {
     display: flex;
     align-items: center;

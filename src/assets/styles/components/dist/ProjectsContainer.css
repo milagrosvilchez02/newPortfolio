@@ -1,0 +1,5 @@
+.section {
+  margin: 0rem 5rem 0rem 5rem;
+  font-size: 1.5rem;
+  flex-direction: column;
+}

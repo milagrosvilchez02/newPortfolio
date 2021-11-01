@@ -1,5 +1,4 @@
 import React from "react";
-import "../assets/styles/Contact.css";
 
 const Contact = ({ content }) => {
   return (
@@ -8,7 +7,7 @@ const Contact = ({ content }) => {
       <div className="links">
         {content.map((i) => (
           <a target="_blank" href={i.href} key={i.key}>
-            <img className="contact-item" src={i.img} alt={i.key} />
+            <img src={i.img} alt={i.key} />
           </a>
         ))}
       </div>
