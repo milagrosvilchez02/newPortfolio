@@ -13,6 +13,7 @@ function App() {
     <React.Fragment>
       <Header />
       <main className="container">
+        <Home />
         <Switch>
           <Route path="/resume" component={Resume}></Route>
           <Route path="/interests" component={InterestsTab}></Route>
