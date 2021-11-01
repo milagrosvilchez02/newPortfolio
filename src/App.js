@@ -4,6 +4,8 @@ import Home from "./components/Home";
 import Header from "./components/Header";
 import InterestsTab from "./components/InterestsTab";
 import Resume from "./components/Resume";
+import Contact from "./components/Contact";
+import contactData from "./contactData.json";
 import "./App.css";
 
 function App() {
@@ -18,6 +20,7 @@ function App() {
           <Redirect from="/" exact to="/home" />
         </Switch>
       </main>
+      <Contact content={contactData} />
     </React.Fragment>
   );
 }

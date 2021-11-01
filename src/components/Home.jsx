@@ -1,10 +1,10 @@
 import React from "react";
 import Section from "./Section";
-import Contact from "./Contact";
 import PersonalInfo from "./PersonalInfo";
 import data from "../data.json";
-import contactData from "../contactData.json";
+import skills from "../skills.json";
 import "../assets/styles/Home.css";
+import SkillsContainer from "./SkillsContainer";
 
 const Home = () => {
   return (
@@ -17,9 +17,7 @@ const Home = () => {
           content={c.content}
         ></Section>
       ))}
-      {/* <ProjectsContainer projects={data.projects} /> */}
-      {/* <Work works={data.works} /> */}
-      <Contact content={contactData} />
+      <SkillsContainer mainTitle={skills.mainTitle} content={skills.content} />
     </div>
   );
 };

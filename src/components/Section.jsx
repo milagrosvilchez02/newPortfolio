@@ -2,13 +2,9 @@ import React from "react";
 import Container from "./Container";
 import "../assets/styles/ProjectsContainer.css";
 
-// {
-//   c.content.map((i) => <Container key={i.title} content={i} />);
-// }
-
 const ProjectsContainer = ({ mainTitle, content }) => {
   return (
-    <div className="projects">
+    <div className="section">
       <h1 className="title">{mainTitle}</h1>
       <div className="projects">
         {content.map((m) => (

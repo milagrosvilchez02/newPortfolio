@@ -8,7 +8,7 @@ const Resume = () => {
       <a href={resumeDownload} download="MariaResume.pdf">
         Download my resume!
       </a>
-      <img src={image} alt="resume" />
+      <img className="resume" src={image} alt="resume" />
     </div>
   );
 };
