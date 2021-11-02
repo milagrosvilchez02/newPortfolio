@@ -1,0 +1,41 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0rem 9rem 0rem 9rem;
+  margin-top: 1.5rem;
+}
+
+.me {
+  border-radius: 0.5rem;
+  width: -webkit-fill-available;
+  border: 0.05rem solid white;
+  box-shadow: 0rem 0rem 0.7rem 0rem rgba(255, 255, 255, 0.5);
+}
+
+.list {
+  border: 0.05rem solid white;
+  border-radius: 0.5rem;
+  padding: 0.05rem;
+  box-shadow: 0rem 0rem 0.7rem 0rem rgba(255, 255, 255, 0.5);
+}
+
+.list p {
+  margin: 0rem 0rem 0rem 0.7rem;
+}
+
+.text {
+  width: 50%;
+}
+
+.picture-section {
+  width: 40%;
+}
+
+.about-me {
+  border: 0.05rem solid white;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin: 0;
+  font-size: 2rem;
+}

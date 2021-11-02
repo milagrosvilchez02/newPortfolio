@@ -3,15 +3,15 @@
         "content": [
             {
                 "name": "HTML",
-                "img": "https://img.icons8.com/ios/50/26e07f/html-5--v1.png"
+                "img": "https://img.icons8.com/ios-filled/50/26e07f/html-5.png"
             },
             {
                 "name": "CSS3",
-                "img": "https://img.icons8.com/ios/50/26e07f/css3.png"
+                "img": "https://img.icons8.com/ios-filled/50/26e07f/css3.png"
             },
             {
                 "name": "JavaScript",
-                "img": "https://img.icons8.com/ios/50/26e07f/javascript--v1.png"
+                "img": "https://img.icons8.com/ios-filled/50/26e07f/javascript.png"
             },
             {
                 "name": "React",
@@ -19,11 +19,19 @@
             },
             {
                 "name": "Git",
-                "img": "https://img.icons8.com/ios/50/26e07f/git.png"
+                "img": "https://img.icons8.com/ios-filled/50/26e07f/git.png"
             },
             {
                 "name": "GitHub",
-                "img": "https://img.icons8.com/ios/50/26e07f/github--v1.png"
+                "img": "https://img.icons8.com/ios-filled/50/26e07f/github.png"
+            },
+            {
+                "name": "C#",
+                "img": "https://img.icons8.com/ios-filled/50/26e07f/c-sharp-logo.png"
+            },
+            {
+                "name": "TypeScript",
+                "img": "https://img.icons8.com/ios-filled/50/26e07f/typescript.png"
             }
         ]
     }

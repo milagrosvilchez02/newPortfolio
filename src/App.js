@@ -17,7 +17,7 @@ function App() {
           <Route path="/resume" component={Resume}></Route>
           <Route path="/interests" component={InterestsTab}></Route>
           <Route path="/home" component={Home}></Route>
-          <Redirect from="/" exact to="/home" />
+          <Redirect from="/" to="/home" />
         </Switch>
       </main>
       <Contact content={contactData} />

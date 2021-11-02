@@ -1,0 +1,36 @@
+.items {
+  display: -ms-grid;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  padding-bottom: 4rem;
+}
+
+#container {
+  margin-top: 7rem;
+  border-top: 0.05rem solid white;
+  border-bottom: 0.05rem solid white;
+}
+
+.name {
+  margin: 0;
+  padding: 0.5em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  transition: all 0.2s ease-in-out;
+}
+
+.name:hover {
+  transform: scale(1.1);
+}
+
+.name img {
+  margin-left: 1rem;
+}

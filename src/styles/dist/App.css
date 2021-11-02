@@ -26,61 +26,6 @@
   width: 3rem;
 }
 
-.home-container {
-  display: flex;
-  flex-direction: column;
-}
-
-.main {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  margin: 0rem 9rem 0rem 9rem;
-}
-
-.home-picture {
-  border-radius: 0.5rem;
-  width: -webkit-fill-available;
-  border: 0.05rem solid white;
-  box-shadow: 0rem 0rem 0.7rem 0rem rgba(255, 255, 255, 0.5);
-}
-
-.info-list {
-  border: 0.05rem solid white;
-  border-radius: 0.5rem;
-  padding: 0.05rem;
-  box-shadow: 0rem 0rem 0.7rem 0rem rgba(255, 255, 255, 0.5);
-}
-
-.info-list p {
-  margin: 0rem 0rem 0rem 0.7rem;
-}
-
-.personal-info-text {
-  margin-top: 1.5rem;
-  width: 50%;
-  box-shadow: 0rem 0rem 0.7rem 0rem rgba(255, 255, 255, 0.5);
-}
-
-.personal-info-img {
-  margin-top: 1.5rem;
-  width: 40%;
-}
-
-.about-me {
-  border: 0.05rem solid white;
-  border-radius: 0.5rem;
-  padding: 0.5rem;
-  margin: 0;
-  font-size: 2rem;
-}
-
-.title {
-  margin: 6.25rem 0rem 5.6rem 0rem;
-  border-bottom: 0.05rem solid white;
-  padding-left: 5rem;
-}
-
 .interests {
   display: flex;
   justify-content: center;
@@ -130,7 +75,8 @@
 }
 
 .resume {
-  margin: 2rem;
+  margin: 5rem;
+  width: 55%;
 }
 
 .items {
@@ -147,7 +93,7 @@
   border-bottom: 0.05rem solid white;
 }
 
-.text {
+.name {
   margin: 0;
   padding: 0.5em;
   display: -webkit-box;
@@ -162,12 +108,54 @@
   transition: all 0.2s ease-in-out;
 }
 
-.text:hover {
+.name:hover {
   transform: scale(1.1);
 }
 
-.text img {
+.name img {
   margin-left: 1rem;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0rem 9rem 0rem 9rem;
+  margin-top: 1.5rem;
+}
+
+.me {
+  border-radius: 0.5rem;
+  width: -webkit-fill-available;
+  border: 0.05rem solid white;
+  box-shadow: 0rem 0rem 0.7rem 0rem rgba(255, 255, 255, 0.5);
+}
+
+.list {
+  border: 0.05rem solid white;
+  border-radius: 0.5rem;
+  padding: 0.05rem;
+  box-shadow: 0rem 0rem 0.7rem 0rem rgba(255, 255, 255, 0.5);
+}
+
+.list p {
+  margin: 0rem 0rem 0rem 0.7rem;
+}
+
+.text {
+  width: 50%;
+}
+
+.picture-section {
+  width: 40%;
+}
+
+.about-me {
+  border: 0.05rem solid white;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin: 0;
+  font-size: 2rem;
 }
 
 body {
@@ -223,4 +211,9 @@ a:hover {
   text-decoration: none;
   color: #86edff;
   transform: scale(1.1);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
 }

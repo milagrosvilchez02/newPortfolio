@@ -6,7 +6,7 @@ const SkillsContainer = ({ mainTitle, content }) => {
       <h2>{mainTitle}</h2>
       <div className="items">
         {content.map((s) => (
-          <p className="text" key={s.name}>
+          <p className="name" key={s.name}>
             {s.name}
             <img src={s.img} alt={s.name} />
           </p>

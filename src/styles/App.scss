@@ -6,6 +6,7 @@
 @import '../assets/styles/components/ProjectsContainer.scss';
 @import '../assets/styles/components/Resume.scss';
 @import '../assets/styles/components/SkillsContainer.scss';
+@import '../assets/styles/components/PersonalInfo.scss';
 
 body {
   margin: 0;
@@ -56,4 +57,9 @@ a:hover {
   text-decoration: none;
   color: rgb(134, 237, 255);
   transform: scale(1.1);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
 }
