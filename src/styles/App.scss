@@ -9,7 +9,7 @@
 @import '../assets/styles/components/PersonalInfo.scss';
 
 body {
-  margin: 0;
+  margin: 0px 5px 0px 5px;
   background-color: rgb(0, 0, 0);
   font-family: 'Titillium Web';
   -webkit-font-smoothing: antialiased;
@@ -62,4 +62,9 @@ a:hover {
 .container {
   display: flex;
   flex-direction: column;
+}
+
+@media screen and (min-width: 700px) {
+  
+
 }

@@ -6,12 +6,6 @@
   padding-bottom: 4rem;
 }
 
-#container {
-  margin-top: 7rem;
-  border-top: 0.05rem solid white;
-  border-bottom: 0.05rem solid white;
-}
-
 .name {
   margin: 0;
   padding: 0.5em;
@@ -27,10 +21,26 @@
   transition: all 0.2s ease-in-out;
 }
 
-.name:hover {
-  transform: scale(1.1);
+#container {
+  margin-top: 7rem;
+  border-top: 0.05rem solid white;
+  border-bottom: 0.05rem solid white;
 }
 
-.name img {
-  margin-left: 1rem;
+@media screen and (min-width: 700px) {
+  .name {
+    margin: 0;
+    padding: 0.5em;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .name:hover {
+    transform: scale(1.1);
+  }
+
+  .name img {
+    margin-left: 1rem;
+  }
 }

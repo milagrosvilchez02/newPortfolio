@@ -5,10 +5,10 @@ const Project = ({ info, img, link, descr }) => {
     <div className="project-container">
       <div className="about">
         <h2>{info}</h2>
-        <a href={link} target="_blank" rel="noreferrer">
-          {link}
-        </a>
         <p>{descr}</p>
+        <a href={link} target="_blank" rel="noreferrer">
+          Click here to see the project
+        </a>
       </div>
       <img className="proj-img" src={img} alt="view" />
     </div>

@@ -1,5 +1,16 @@
 .section {
+    margin: 80px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    h1 {
+        text-align: center;
+    }
+}
+
+
+@media screen and (min-width: 700px) {
+    .section {
     margin: 0rem 5rem 0rem 5rem;
     font-size: 1.5rem;
-    flex-direction: column;
+    }
 }

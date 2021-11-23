@@ -1,0 +1,15 @@
+.contact {
+  align-items: center;
+  display: flex;
+  font-size: 4vw;
+  margin-top: 10vh;
+  justify-content: space-evenly;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+}
+.links a {
+  margin: 0px 5px 0px 5px;
+}
