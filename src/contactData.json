@@ -2,16 +2,16 @@
     {
         "key": "email",
         "href": "mailto:milagrosvilchez01@gmail.com",
-        "img": "https://img.icons8.com/ios/50/26e07f/composing-mail.png"
+        "img": "https://img.icons8.com/wired/344/4a90e2/email.png"
     },
     {
         "key": "linkedin",
         "href": "https://www.linkedin.com/in/mar%C3%ADa-de-los-milagros-vilchez-13433820a/",
-        "img": "https://img.icons8.com/ios/50/26e07f/linkedin.png"
+        "img": "https://img.icons8.com/dotty/344/4a90e2/linkedin.png"
     },    
     {
         "key": "github",
         "href": "https://github.com/milagrosvilchez02",
-        "img": "https://img.icons8.com/ios/50/26e07f/github.png"
+        "img": "https://img.icons8.com/dotty/344/4a90e2/github.png"
     }
 ]

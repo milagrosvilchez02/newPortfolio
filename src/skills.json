@@ -3,35 +3,39 @@
         "content": [
             {
                 "name": "HTML",
-                "img": "https://img.icons8.com/ios-filled/50/26e07f/html-5.png"
+                "img": "https://img.icons8.com/wired/344/html-5.png"
             },
             {
                 "name": "CSS3",
-                "img": "https://img.icons8.com/ios-filled/50/26e07f/css3.png"
+                "img": "https://img.icons8.com/wired/344/css3.png"
             },
             {
                 "name": "JavaScript",
-                "img": "https://img.icons8.com/ios-filled/50/26e07f/javascript.png"
+                "img": "https://img.icons8.com/wired/344/javascript.png"
             },
             {
                 "name": "React",
-                "img": "https://img.icons8.com/ios-filled/50/26e07f/react-native.png"
+                "img": "https://img.icons8.com/wired/344/react.png"
             },
             {
                 "name": "Git",
-                "img": "https://img.icons8.com/ios-filled/50/26e07f/git.png"
+                "img": "https://img.icons8.com/wired/344/merge-git.png"
             },
             {
                 "name": "GitHub",
-                "img": "https://img.icons8.com/ios-filled/50/26e07f/github.png"
+                "img": "https://img.icons8.com/wired/344/github.png"
             },
             {
                 "name": "C#",
-                "img": "https://img.icons8.com/ios-filled/50/26e07f/c-sharp-logo.png"
+                "img": "https://img.icons8.com/wired/344/cs.png"
             },
             {
                 "name": "TypeScript",
-                "img": "https://img.icons8.com/ios-filled/50/26e07f/typescript.png"
+                "img": "https://img.icons8.com/ios/344/typescript.png"
+            },
+            {
+                "name": "Salesforce",
+                "img": "https://img.icons8.com/wired/344/salesforce.png"
             }
         ]
     }

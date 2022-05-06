@@ -15,7 +15,7 @@ const data = [
       {
         title: "Rick and Morty character searcher",
         link: "https://github.com/milagrosvilchez02/RickAndMortyProject",
-        img: "https://imgr.search.brave.com/5vQPJvXB1qNDtpyFOkcyms4_3auQ5tQtAq7_fz89hGI/fit/1200/1142/ce/1/aHR0cHM6Ly9tZWRp/YS5zYWxvbi5jb20v/MjAyMS8wMy9yaWNr/LWFuZC1tb3J0eS1z/dGlsbDA0LmpwZw",
+        img: "https://indiehoy.com/wp-content/uploads/2020/06/rick-and-morty-1-1200x900.jpg",
         descr:
           "Character searcher using C# + API: https://rickandmortyapi.com/",
       },

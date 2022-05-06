@@ -9,15 +9,15 @@
 .me { 
     border-radius: 0.5rem;
     width: -webkit-fill-available;
-    border: 0.05rem solid white;
-    box-shadow: 0rem 0rem 0.7rem 0rem rgba(255, 255, 255, 0.5);
+    border: 0.05rem solid #49111C;
+    box-shadow: 0rem 0rem 0.7rem 0rem #49111C;
 }
 
 .list {
-    border: 0.05rem solid white;
+    border: 0.05rem solid #49111C;
     border-radius: 0.5rem;
     padding: 0.05rem;
-    box-shadow: 0rem 0rem 0.7rem 0rem rgba(255, 255, 255, 0.5);
+    box-shadow: 0rem 0rem 0.7rem 0rem #49111C;
 }
 
 .list p{
@@ -34,7 +34,8 @@
 }
 
 .about-me {
-    border: 0.05rem solid white;
+    border: 0.05rem solid ;
+    box-shadow: 0rem 0rem 0.7rem 0rem #49111C;
     border-radius: 0.5rem;
     padding: 0.5rem;
     margin: 0;

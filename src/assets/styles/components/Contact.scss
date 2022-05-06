@@ -1,16 +1,20 @@
 .contact {
     align-items: center;
     display: flex;
-    font-size: 4vw;
+    font-size: 2vw;
     margin-top: 10vh;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .links {
+    margin-left: 1rem;
     display: flex;
     justify-content: space-evenly;
     a {
         margin: 0px 5px 0px 5px;
+    }
+    img {
+        width: 40px;
     }
 }
 

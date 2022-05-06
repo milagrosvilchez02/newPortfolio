@@ -10,11 +10,11 @@
 
 body {
   margin: 0px 5px 0px 5px;
-  background-color: rgb(0, 0, 0);
+  background-color: #dfc6cc;
   font-family: 'Titillium Web';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: rgb(92, 252, 132);
+  color: #49111C;
   user-select: none; /* Standard */
   -webkit-user-select: none; /* Safari */
   -moz-user-select: none; /* Firefox */
@@ -38,9 +38,9 @@ body::-webkit-scrollbar:horizontal {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: #43575f7e;
   border-radius: 20px;
-  border: 1px solid rgb(255, 255, 255);
+  border: 1px solid #4F6D7A;
 }
 
 body::-webkit-scrollbar-track {
@@ -49,19 +49,19 @@ body::-webkit-scrollbar-track {
 
 a {
   text-decoration: none;
-  color: rgb(180, 153, 255);
+  color: #315ebe;
   transition: all .2s ease-in-out;
 }
 
 a:hover {
   text-decoration: none;
-  color: rgb(134, 237, 255);
   transform: scale(1.1);
 }
 
 .container {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 @media screen and (min-width: 700px) {

@@ -17,8 +17,7 @@ const PersonalInfo = () => {
       <div className="text">
         <p className="about-me">
           Hello! I'm Milagros and I'm passionate about programming.
-          <br /> I started by myself this year and here you'll see what I've
-          learned.
+          <br /> Here you'll see what I've learned.
         </p>
       </div>
     </div>

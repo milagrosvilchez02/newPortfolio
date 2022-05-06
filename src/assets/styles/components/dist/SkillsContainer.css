@@ -23,8 +23,8 @@
 
 #container {
   margin-top: 7rem;
-  border-top: 0.05rem solid white;
-  border-bottom: 0.05rem solid white;
+  border-top: 0.05rem solid #49111C;
+  border-bottom: 0.05rem solid #49111C;
 }
 
 @media screen and (min-width: 700px) {
@@ -34,6 +34,9 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+  }
+  .name img {
+    width: 70px;
   }
 
   .name:hover {
