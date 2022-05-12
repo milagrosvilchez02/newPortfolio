@@ -20,6 +20,9 @@
   align-items: center;
   transition: all 0.2s ease-in-out;
 }
+.name img {
+  width: 70px;
+}
 
 #container {
   margin-top: 7rem;
@@ -34,9 +37,6 @@
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-  }
-  .name img {
-    width: 70px;
   }
 
   .name:hover {
