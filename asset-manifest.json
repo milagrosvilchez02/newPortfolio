@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/newPortfolio/static/css/main.71bb178c.chunk.css",
-    "main.js": "/newPortfolio/static/js/main.7386c36e.chunk.js",
-    "main.js.map": "/newPortfolio/static/js/main.7386c36e.chunk.js.map",
+    "main.js": "/newPortfolio/static/js/main.857e330c.chunk.js",
+    "main.js.map": "/newPortfolio/static/js/main.857e330c.chunk.js.map",
     "runtime-main.js": "/newPortfolio/static/js/runtime-main.f3eabc17.js",
     "runtime-main.js.map": "/newPortfolio/static/js/runtime-main.f3eabc17.js.map",
     "static/js/2.9cad3f55.chunk.js": "/newPortfolio/static/js/2.9cad3f55.chunk.js",
@@ -12,6 +12,7 @@
     "index.html": "/newPortfolio/index.html",
     "static/css/main.71bb178c.chunk.css.map": "/newPortfolio/static/css/main.71bb178c.chunk.css.map",
     "static/js/2.9cad3f55.chunk.js.LICENSE.txt": "/newPortfolio/static/js/2.9cad3f55.chunk.js.LICENSE.txt",
+    "static/media/cocktail.997406d4.jpg": "/newPortfolio/static/media/cocktail.997406d4.jpg",
     "static/media/platzimain.4136e6b8.png": "/newPortfolio/static/media/platzimain.4136e6b8.png",
     "static/media/platziproject.e77eaccc.png": "/newPortfolio/static/media/platziproject.e77eaccc.png",
     "static/media/portfolioResume.6d7fb8b0.pdf": "/newPortfolio/static/media/portfolioResume.6d7fb8b0.pdf",
@@ -21,6 +22,6 @@
     "static/js/runtime-main.f3eabc17.js",
     "static/js/2.9cad3f55.chunk.js",
     "static/css/main.71bb178c.chunk.css",
-    "static/js/main.7386c36e.chunk.js"
+    "static/js/main.857e330c.chunk.js"
   ]
 }
