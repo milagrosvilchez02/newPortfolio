@@ -1,5 +1,6 @@
 import image1 from "../src/resources/platziproject.png";
 import image2 from "../src//resources/platzimain.png";
+import cocktail from "../src/resources/cocktail.jpg";
 
 const data = [
   {
@@ -37,6 +38,13 @@ const data = [
         img: image2,
         descr:
           "Main view from Platzi Video - Front End course (HTML and CSS only).",
+      },
+      {
+        title: "Cocktails 101",
+        link: "https://milagrosvilchez02.github.io/cocktailsApp/",
+        img: cocktail,
+        descr:
+          "Cocktail searcher, personal project (React - SASS - GitHub Pages)",
       },
     ],
   },

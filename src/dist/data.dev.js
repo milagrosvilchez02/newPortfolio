@@ -9,6 +9,8 @@ var _platziproject = _interopRequireDefault(require("../src/resources/platziproj
 
 var _platzimain = _interopRequireDefault(require("../src//resources/platzimain.png"));
 
+var _cocktail = _interopRequireDefault(require("../src/resources/cocktail.jpg"));
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 
 var data = [{
@@ -36,6 +38,11 @@ var data = [{
     title: "Platzi main",
     img: _platzimain["default"],
     descr: "Main view from Platzi Video - Front End course (HTML and CSS only)."
+  }, {
+    title: "Cocktails 101",
+    link: "https://milagrosvilchez02.github.io/cocktailsApp/",
+    img: _cocktail["default"],
+    descr: "Cocktail searcher, personal project (React - SASS - GitHub Pages)"
   }]
 }, {
   mainTitle: "Works",
